@@ -4,6 +4,8 @@ icon: pen-to-square
 
 # Editor
 
+{% include ".gitbook/includes/reusable-content.md" %}
+
 GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
 
 * BLABLABNLA
